@@ -1,0 +1,33 @@
+.default-theme{
+    text-align: center;
+}
+
+.search-form{
+    background-color: rgb(255, 255, 255);
+}
+
+.search-box{
+    background-color: rgba(190, 190, 190, 0.521);
+    border-radius: 22px;
+    box-shadow: none;
+    outline-width: none;
+    width: 50%;
+    height: 44px;
+    border: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+li{
+    display: inline;
+    text-align: right;
+    padding-right: 15px;
+    font-size: small;
+    font-family: arial, sans-serif;
+}
+
